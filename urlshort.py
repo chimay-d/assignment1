@@ -4,7 +4,7 @@ url2id = {}
 
 class URL_Shortener:
     # suppose, we already have 10 billion urls
-    id = 100
+    id = 10000000000
     # store url to id in order not to have duplicated url with different id
     
     
