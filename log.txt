@@ -1,0 +1,45 @@
+Time: 19:32:30
+Type: INFO
+Message: I am good
+
+
+Time: 19:32:30
+Type: ORDER
+Message: Do not touch the glass
+
+
+Time: 19:32:30
+Type: ORDER
+Message: Bring me the flask
+
+
+Time: 19:33:49
+Type: SUGGESTION
+Message: Wait until the sun rises
+
+
+Time: 19:33:49
+Type: ORDER
+Message: Dont run
+
+
+Time: 23:32:49
+Type: INFO
+Message: I am going
+
+
+Time: 23:32:49
+Type: ORDER
+Message: Sit down
+
+
+Time: 23:32:49
+Type: WARNING
+Message: Do not disturb me
+
+
+Time: 23:32:49
+Type: ORDER
+Message: Shut up
+
+
